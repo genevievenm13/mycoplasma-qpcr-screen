@@ -1,0 +1,9 @@
+Well,Source,Reaction,Cq,Melt Temperature,Peak Height,End RFU,Peak class,All peaks,Myco-window signal,Call
+A01,Nt,Test sample,35.58,74.0,298.14,1458.1,Primer-dimer,74.0 C (298),1.03,No Mycoplasma product
+A02,Nt,Sample + amp. control,32.47,83.5,202.73,1971.29,AC product,73.0 C (123); 83.5 C (203),102.2,AC amplified - no inhibition
+A03,Nt,Positive control,28.24,75.0,247.18,2549.59,Primer-dimer,75.0 C (247),136.18,"WEAK - target shoulder ~80 C, primer-dimer dominant"
+A04,Nt,Negative control,16.02,81.5,277.89,2924.18,Mycoplasma-size product,81.5 C (278),265.91,FAIL - contaminated (Mycoplasma-size product)
+B01,CFL,Test sample,36.3,73.5,312.44,1290.76,Primer-dimer,73.5 C (312),0.39,No Mycoplasma product
+B02,CFL,Sample + amp. control,32.15,83.5,185.36,2111.23,AC product,74.0 C (147); 83.5 C (185),104.12,AC amplified - no inhibition
+B03,CFL,Positive control,28.06,74.5,292.17,2702.34,Primer-dimer,74.5 C (292),83.65,"WEAK - target shoulder ~80 C, primer-dimer dominant"
+B04,CFL,Negative control,32.05,75.0,398.81,2532.26,Primer-dimer,75.0 C (399),21.61,PASS (primer-dimer only)
